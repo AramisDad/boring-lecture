@@ -1,12 +1,12 @@
-h2.intro {
-text-align: center;
-}
-
-p.intro {
+.intro {
   width: 60%;
-  text-align: justify;
+  text-align: center;
 }
 
 img.intro {
   border-radius: 75%;
+}
+
+.brown {
+  color: red;
 }
