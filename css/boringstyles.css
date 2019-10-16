@@ -1,0 +1,12 @@
+h2.intro {
+text-align: center;
+}
+
+p.intro {
+  width: 60%;
+  text-align: justify;
+}
+
+img.intro {
+  border-radius: 75%;
+}
